@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sweety Contacts</string>
+    <string name="no_contacts_msg">Unfortunately, you have not provided access to your contacts :(</string>
+    <string name="msg_permission_denied">MSG Permission was denied :(</string>
+    <string name="no_messenger">Can not find a messenger :(</string>
+    <string name="cannot_send_msg">Can not send a msg :(</string>
+</resources>

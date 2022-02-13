@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mystery Pics</string>
+    <string name="no_connection_msg">No magic when no internet connection :(</string>
+    <string name="service_desc">Helps app "Mystery Pics" to download and maintain images</string>
+    <string name="ok">OK</string>
+    <string name="preparing_data">Preparing data…</string>
+    <string name="some_error_occurred_msg">Ops, some error occurred… (mb no internet??)</string>
+</resources>

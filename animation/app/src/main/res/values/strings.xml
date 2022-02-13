@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primes</string>
+    <string name="intro">How many prime numbers are not greater then N?</string>
+    <string name="n">N =</string>
+    <string name="go">GO</string>
+    <string name="calculating">Calculating…</string>
+</resources>

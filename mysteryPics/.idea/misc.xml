@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../../layout/custom_preview.xml" value="0.19814814814814816" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable-v24/question_mark.xml" value="0.2442367592744661" />
+        <entry key="app/src/main/res/drawable/btn_bg.xml" value="0.18796296296296297" />
+        <entry key="app/src/main/res/drawable/btn_bg_ava.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.16574074074074074" />
+        <entry key="app/src/main/res/drawable/ic_question_mark.xml" value="0.2695938779851094" />
+        <entry key="app/src/main/res/layout-land/dialog.xml" value="0.37749098980912704" />
+        <entry key="app/src/main/res/layout-land/no_connection.xml" value="0.2791666666666667" />
+        <entry key="app/src/main/res/layout-land/preparation.xml" value="0.2791666666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2593634473619268" />
+        <entry key="app/src/main/res/layout/activity_on_item_click.xml" value="0.30442973826175085" />
+        <entry key="app/src/main/res/layout/dialog.xml" value="0.36507259795744695" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.4380590224651989" />
+        <entry key="app/src/main/res/layout/no_connection.xml" value="0.3731080800216827" />
+        <entry key="app/src/main/res/layout/preparation.xml" value="0.34808662056260964" />
+        <entry key="app/src/main/res/layout/preparation_land.xml" value="0.23125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25794871794871793" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25794871794871793" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">30sp</dimen>
+    <dimen name="deleteButtonPadding">0dp</dimen>
+    <dimen name="actionButtonPadding">5dp</dimen>
+</resources>

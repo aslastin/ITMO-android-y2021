@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.275" />
+        <entry key="app/src/main/res/drawable/change_theme_button_style.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/drawable/ic_cloudy.xml" value="0.30564102564102563" />
+        <entry key="app/src/main/res/drawable/ic_cloudy_day.xml" value="0.38688361329315635" />
+        <entry key="app/src/main/res/drawable/ic_cloudy_day_3.xml" value="0.28301609012561435" />
+        <entry key="app/src/main/res/drawable/ic_freeiconset.xml" value="1.4684144324211807" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.275" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/drawable/ic_location.xml" value="0.633644691763662" />
+        <entry key="app/src/main/res/drawable/ic_night_theme_button.xml" value="0.26303250497412206" />
+        <entry key="app/src/main/res/drawable/ic_rainy.xml" value="0.30564102564102563" />
+        <entry key="app/src/main/res/drawable/ic_snowy.xml" value="0.30564102564102563" />
+        <entry key="app/src/main/res/drawable/ic_sunny.xml" value="0.30564102564102563" />
+        <entry key="app/src/main/res/drawable/ic_sunny_rainy.xml" value="0.30277777777777776" />
+        <entry key="app/src/main/res/drawable/ic_sunny_snowy.xml" value="0.30277777777777776" />
+        <entry key="app/src/main/res/drawable/ic_sunny_svgrepo_com.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_thunder.xml" value="0.30564102564102563" />
+        <entry key="app/src/main/res/drawable/round_button.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3933240348186218" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.30185185185185187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.49159290221940616" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

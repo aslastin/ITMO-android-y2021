@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather">Weather</string>
+    <string name="curTemp">39°C</string>
+    <string name="curLoc">Russia, Saint-Petersburg</string>
+    <string name="curWeather">Sunny</string>
+    <string name="thu">Thu</string>
+    <string name="wed">Wed</string>
+    <string name="fri">Fri</string>
+    <string name="sun">Sun</string>
+    <string name="sat">Sat</string>
+    <string name="tue">Tue</string>
+    <string name="mon">Mon</string>
+    <string name="monTemp">20°..40°</string>
+    <string name="tueTemp">-5°..-3°</string>
+    <string name="wedTemp">-5°..5°</string>
+    <string name="thuTemp">5°..10°</string>
+    <string name="friTemp">-10°..5°</string>
+    <string name="satTemp">10°..23°</string>
+    <string name="sunTemp">6°..8°</string>
+    <string name="sunny">sunny</string>
+</resources>
