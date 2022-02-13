@@ -1,4 +1,4 @@
-# ITMO-android-y2021
+# ITMO-android
 
 ## Preface
 
