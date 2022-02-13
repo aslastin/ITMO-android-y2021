@@ -14,7 +14,7 @@
 1. [Weather](weather)
     - __Skills__: adaptive layout, theme changing
 
-1. [Contact List](contactList)
+1. [Sweet Contacts](contactList)
     - __Skills__: Recycler View, resources, user permissions
 
 1. [Mystery Pictures](mysteryPics)
